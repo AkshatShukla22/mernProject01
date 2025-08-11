@@ -1,2 +1,3 @@
-const BackendUrl = 'http://localhost:8000/';
+const BackendUrl = 'https://mernproject01-hk90.onrender.com/';
 export default BackendUrl;
+
